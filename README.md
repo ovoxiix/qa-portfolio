@@ -131,7 +131,3 @@ qa-portfolio/
     - Test Result
     - Jira Issue
     - Comment
-
-## ✅ 목적
-
-- 

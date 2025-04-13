@@ -5,22 +5,25 @@
 - 장바구니 핵심 기능 테스트 프로젝트의 QA 문서를 모아둔 폴더입니다.
 - 테스트 시나리오와 테스트 케이스를 **구분하여 문서화**함으로써 QA 관점에서의 **명확한 테스트 커버리지 확보**와 **테스트 관리의 효율성 향상**을 목표로 합니다.
 
-## 📄 **`cart_core_functionality_test_scenarios.md`**
+## 📄 **cart_core_functionality_test_scenarios.md**
 
 - 본 테스트 시나리오는 글로벌 이커머스 플랫폼의 장바구니 핵심 기능 검증을 목적으로 작성되었습니다.  
 - 일반적이고 빈번하게 발생하는 정상 플로우 중심으로 구성하였으며, 예외 상황(Edge Case)은 포함되지 않았습니다.
 
-## 📄 **`cart_core_functionality_test_cases.xlsx`**
+## 📄 **cart_core_functionality_test_cases.xlsx**
 
 - 테스트 시나리오를 기반으로 **장바구니 핵심 기능**을 단위별로 세분화한 **테스트 케이스 문서**입니다.
-- 각 케이스는 아래 항목으로 구성되어 있습니다 :
-    - TC ID
-    - Priority
-    - 분류
-    - Depth
-    - Precondition
-    - Test Step (테스트 절차)
-    - Expected Results
-    - Test Result
-    - Jira Issue
-    - Comment
+- 각 케이스는 아래 항목으로 구성되어 있습니다:
+| 항목 | 설명 |
+|------|------|
+| TC ID | 테스트 케이스 식별자 |
+| Priority | 테스트 우선순위 |
+| 1 Depth | 최상위 기능 구분 |
+| 2 Depth | 하위 기능 구분 |
+| 3 Depth | 세부 기능 구분 |
+| Precondition | 테스트 실행 전 조건 |
+| Test Step | 테스트 수행 절차 |
+| Expected Results | 예상 결과 (검증 기준) |
+| Test Result | 실행 결과 (Pass/Fail) |
+| Jira Issue | 관련 이슈 트래킹 ID |
+| Comment | 비고 또는 특이사항 |

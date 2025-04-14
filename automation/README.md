@@ -57,3 +57,5 @@ npx playwright test
 ```
 npx playwright show-report
 ```
+
+## 📊 테스트 리포트

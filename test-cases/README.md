@@ -7,7 +7,7 @@
 
 ## 📄 **cart_core_functionality_test_scenarios.md**
 
-- 본 테스트 시나리오는 글로벌 이커머스 플랫폼의 장바구니 핵심 기능 검증을 목적으로 작성되었습니다.  
+- 글로벌 이커머스 플랫폼의 장바구니 핵심 기능 검증을 목적으로 작성된 **테스트 시나리오 문서**입니다.  
 - 일반적이고 빈번하게 발생하는 정상 플로우 중심으로 구성하였으며, 예외 상황(Edge Case)은 포함되지 않았습니다.
 
 ## 📄 **cart_core_functionality_test_cases.xlsx**

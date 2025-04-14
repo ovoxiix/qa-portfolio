@@ -92,15 +92,19 @@
 
 ```
 qa-portfolio/
-├── README.md                 # 포트폴리오 소개 및 프로젝트 개요
+├── README.md                 # 포트폴리오 소개 및 전체 프로젝트 개요
 ├── test-cases/
-|   ├── README.md             # test-cases/ 폴더 소개
+|   ├── README.md             # test-cases/ 폴더 소개 및 구성 설명
 |   ├── cart_core_functionality_test_cases.xlsx    # 장바구니 핵심 기능 테스트 케이스
 │   └── cart_core_functionality_test_scenarios.md  # 장바구니 핵심 기능 테스트 시나리오
 ├── automation/
-|   ├── README.md             # automation/ 폴더 소개
-│   ├── playwright.config.ts  # Playwright 설정 파일
-│   └── cart.spec.ts          # 장바구니 기능 테스트 자동화 스크립트
+|   ├── README.md             # automation/ 폴더 소개 및 실행 방법 설명
+│   ├── tests/
+|   |   ├── cart_core_functionality_test.spec.ts   # 장바구니 핵심 기능 자동화 테스트 스크립트
+|   |   └── config.ts                              # 테스트 환경 설정 및 공통 상수 관리 파일
+|   ├── package.json
+│   ├── playwright.config.ts
+│   └── tsconfig.json
 ```
 
 ## 📫 Contact

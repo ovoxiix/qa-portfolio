@@ -62,4 +62,4 @@ npx playwright show-report
 
 | CART_001 | CART_002 |
 | ---- | ---- |
-| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ce087475-40e7-444d-ad46-dbfa6aa55abe" /> | [테스트 리포트 예시 - CART_002]([https://github.com/silver0108](https://github.com/user-attachments/assets/ce087475-40e7-444d-ad46-dbfa6aa55abe)) |
+| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/446d2099-32ad-474a-9d21-eea82fb7709f" /> | <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ce087475-40e7-444d-ad46-dbfa6aa55abe" /> |

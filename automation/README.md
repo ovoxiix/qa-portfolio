@@ -38,6 +38,16 @@
 | BASE_URL | 테스트 대상 글로벌 이커머스 플랫폼 메인 페이지 URL |
 | CART_URL | 장바구니 페이지 URL |
 
+## 📊 테스트 리포트
+
+| CART_001 | CART_002 |
+| ---- | ---- |
+| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/446d2099-32ad-474a-9d21-eea82fb7709f" /> | <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ce087475-40e7-444d-ad46-dbfa6aa55abe" /> |
+
+| CART_003 | CART_005 |
+| ---- | ---- |
+| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1906c09f-5651-4e46-bc80-c1e913054a67" /> | <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/3a3ddc47-620a-4559-913d-eb6b65d4394a" /> |
+
 ## 🚀 테스트 실행 방법
 
 1. 패키지 설치
@@ -57,13 +67,3 @@ npx playwright test
 ```
 npx playwright show-report
 ```
-
-## 📊 테스트 리포트
-
-| CART_001 | CART_002 |
-| ---- | ---- |
-| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/446d2099-32ad-474a-9d21-eea82fb7709f" /> | <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ce087475-40e7-444d-ad46-dbfa6aa55abe" /> |
-
-| CART_003 | CART_005 |
-| ---- | ---- |
-| <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1906c09f-5651-4e46-bc80-c1e913054a67" /> | <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/3a3ddc47-620a-4559-913d-eb6b65d4394a" /> |
